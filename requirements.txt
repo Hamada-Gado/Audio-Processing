@@ -33,6 +33,7 @@ pyparsing==3.0.9
 python-dateutil==2.8.2
 pywin32==306
 pyzmq==25.0.2
+scipy==1.10.1
 six==1.16.0
 sounddevice==0.4.6
 stack-data==0.6.2
